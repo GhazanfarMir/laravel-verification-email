@@ -9,6 +9,8 @@ Application built in Laravel which implements verification email upon new user r
 ## Routes
 ```
 Route::get('/email/verify/resend/{email}', 'Auth\RegisterController@resend'); // TODO rethink about this
+```
+```
 Route::get('/email/verify/{code}', 'Auth\RegisterController@verify');
 ```
 
