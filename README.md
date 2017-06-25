@@ -1,4 +1,4 @@
-# Laravel Verification Email
+# Laravel Verification Email [![Build Status](https://travis-ci.org/ghazanfarmir/laravel-verification-email.svg?branch=master)](https://travis-ci.org/ghazanfarmir/laravel-verification-email)
 
 Application built in Laravel which implements verification email upon new user registration. The application uses:
 
